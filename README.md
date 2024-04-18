@@ -14,9 +14,12 @@ Applied Data Science Academic Project 2024
 bin/ # currently nothing inside, but might be used for easy click to run codes in the future
 
 data/
+
 ----raw/
+
 --------original zipcode shapefiles
---------NYPD arrest data & dictionary
+
+--------NYPD arrest data & dictionary \
 ----processed_data/
 --------zipcode_bk # (both shapefiles and csv files)
 
