@@ -22,7 +22,7 @@ data/ \
 
 results/ # currently empty, obviously, we have no results yet ":)" \
 
-src/ #any editable codes \ 
+src/ (any editable codes) \ 
 ----data_processing/ \
 --------crime.ipynb \
 --------lighting.ipynb \
