@@ -11,10 +11,9 @@ Applied Data Science Academic Project 2024
 3. name the files as concise as possible, also, all lowercase, connect words with '_' e.g. 'data_processing' instead of 'dataProcessing'
 
 # Structure of files:
-bin/ # currently nothing inside, but might be used for easy click to run codes in the future
+bin/ # currently nothing inside, but might be used for easy click to run codes in the future \
 
-data/
-
+data/ \
 ----raw/ \
 --------original zipcode shapefiles \
 --------NYPD arrest data & dictionary \
